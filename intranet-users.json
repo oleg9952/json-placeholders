@@ -2,51 +2,71 @@
     {
         "id": 1,
         "name": "Leanne Graham",
-        "logStatus": false
+        "logStatus": false,
+        "job": "Designer",
+        "age": 23
     },
     {
         "id": 2,
         "name": "Ervin Howell",
-        "logStatus": false
+        "logStatus": false,
+        "job": "Engineer",
+        "age": 21
     },
     {
         "id": 3,
         "name": "Clementine Bauch",
-        "logStatus": true
+        "logStatus": true,
+        "job": "Front-end",
+        "age": 34
     },
     {
         "id": 4,
         "name": "Patricia Lebsack",
-        "logStatus": false
+        "logStatus": false,
+        "job": "Back-end",
+        "age": 33
     },
     {
         "id": 5,
         "name": "Chelsey Dietrich",
-        "logStatus": true
+        "logStatus": true,
+        "job": "Java",
+        "age": 28
     },
     {
         "id": 6,
         "name": "Mrs. Dennis Schulist",
-        "logStatus": false
+        "logStatus": false,
+        "job": "HTML/CSS",
+        "age": 45
     },
     {
         "id": 7,
         "name": "Kurtis Weissnat",
-        "logStatus": true
+        "logStatus": true,
+        "job": "SysAdmin",
+        "age": 25
     },
     {
         "id": 8,
         "name": "Nicholas Runolfsdottir V",
-        "logStatus": false
+        "logStatus": false,
+        "job": "HR",
+        "age": 27
     },
     {
         "id": 9,
         "name": "Glenna Reichert",
-        "logStatus": false
+        "logStatus": false,
+        "job": "PM",
+        "age": 57
     },
     {
         "id": 10,
         "name": "Clementina DuBuque",
-        "logStatus": true
+        "logStatus": true,
+        "job": "DevOps",
+        "age": 39
     }
 ]
