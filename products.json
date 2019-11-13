@@ -2,31 +2,37 @@
     {
         "id": "1",
         "name": "Product1",
+        "price": "66",
         "details": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rem nisi porro voluptatum eveniet deleniti delectus aperiam, maiores, consequuntur nobis dicta totam laudantium praesentium nostrum quis culpa libero neque nemo obcaecati!"
     },
     {
         "id": "2",
         "name": "Product2",
+        "price": "99",
         "details": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rem nisi porro voluptatum eveniet deleniti delectus aperiam, maiores, consequuntur nobis dicta totam laudantium praesentium nostrum quis culpa libero neque nemo obcaecati!"
     },
     {
         "id": "3",
         "name": "Product3",
+        "price": "10",
         "details": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rem nisi porro voluptatum eveniet deleniti delectus aperiam, maiores, consequuntur nobis dicta totam laudantium praesentium nostrum quis culpa libero neque nemo obcaecati!"
     },
     {
         "id": "4",
         "name": "Product4",
+        "price": "30",
         "details": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rem nisi porro voluptatum eveniet deleniti delectus aperiam, maiores, consequuntur nobis dicta totam laudantium praesentium nostrum quis culpa libero neque nemo obcaecati!"
     },
     {
         "id": "5",
         "name": "Product5",
+        "price": "70",
         "details": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rem nisi porro voluptatum eveniet deleniti delectus aperiam, maiores, consequuntur nobis dicta totam laudantium praesentium nostrum quis culpa libero neque nemo obcaecati!"
     },
     {
         "id": "6",
         "name": "Product6",
+        "price": "50",
         "details": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rem nisi porro voluptatum eveniet deleniti delectus aperiam, maiores, consequuntur nobis dicta totam laudantium praesentium nostrum quis culpa libero neque nemo obcaecati!"
     }
 ]
